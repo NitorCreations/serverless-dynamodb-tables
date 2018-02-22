@@ -1,0 +1,26 @@
+{
+  "name": "serverless-dynamodb-tables",
+  "version": "0.1.0",
+  "description": "Plugin for generating boilerplate CloudFormation to attach DynamoDB table definitions to Serverless stacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joonas Laitio",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitorCreations/serverless-dynamodb-tables.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "bugs": {
+    "url": "https://github.com/NitorCreations/serverless-dynamodb-tables/issues"
+  },
+  "homepage": "https://github.com/NitorCreations/serverless-dynamodb-tables#readme"
+}
